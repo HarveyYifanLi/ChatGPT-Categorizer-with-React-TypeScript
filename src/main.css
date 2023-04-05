@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-image: linear-gradient(to right top, #d16ba5, #bc62a8, #a35aaa, #8654ab, #6450ab, #515cb6, #3767be, #0071c4, #008cd3, #00a5d5, #00bccf, #15d1c4);
+    /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-page-texts {
+    color: wheat;
+    text-shadow: #FC0 1px 0 10px;
+}
+
+.QnA-page-texts {
+    color: white;
+}
