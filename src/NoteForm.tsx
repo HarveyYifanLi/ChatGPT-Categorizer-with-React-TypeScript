@@ -32,7 +32,7 @@ export function NoteForm({
   tags = [],
 }: NoteFormProps) {
   const configuration = new Configuration({
-    apiKey: "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",
+    apiKey: "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",// This is a fake key, rememeber to insert your own OpenAI API key here
   });
   const openai = new OpenAIApi(configuration);
 
