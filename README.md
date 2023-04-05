@@ -5,7 +5,7 @@ This is a productive Web SPA integrated with the powerful OpenAI ChatGPT API, bu
 ### Instructions for execution
 1a. Clone the Repo and cd into that cloned directory
 
-1b. Modify the follow line in `NoteForm.jsx` file to include your own OpenAI API key, in order to get successfully authenticated by OpenAI (https://platform.openai.com/docs/api-reference/authentication):
+1b. Modify the follow line in `src/NoteForm.jsx` file to include your own OpenAI API key, in order to get successfully authenticated by OpenAI (https://platform.openai.com/docs/api-reference/authentication):
 
  `const configuration = new Configuration({`
  
