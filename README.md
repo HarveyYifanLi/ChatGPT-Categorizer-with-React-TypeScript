@@ -29,6 +29,6 @@ This is a productive Web SPA integrated with the powerful OpenAI ChatGPT API, bu
 
 ![Test image](https://github.com/HarveyYifanLi/ChatGPT-Categorizer-with-React-TypeScript/blob/main/images/QnA.png)
 
-![Test image](https://github.com/HarveyYifanLi/ChatGPT-Categorizer-with-React-TypeScript/blob/main/images/EditQnA.png)
+![Test image](https://github.com/HarveyYifanLi/ChatGPT-Categorizer-with-React-TypeScript/blob/main/images/EditQnA2.png)
 
-![Test image](https://github.com/HarveyYifanLi/ChatGPT-Categorizer-with-React-TypeScript/blob/main/images/NewQnA.png)
+![Test image](https://github.com/HarveyYifanLi/ChatGPT-Categorizer-with-React-TypeScript/blob/main/images/NewQnA2.png)
