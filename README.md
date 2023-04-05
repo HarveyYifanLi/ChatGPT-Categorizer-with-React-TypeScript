@@ -16,10 +16,10 @@ This project is still undergoing development.
 
 ![Test image](https://github.com/HarveyYifanLi/ChatGPT-Categorizer-with-React-TypeScript/blob/main/images/main-page-title.png)
 
+![Test image](https://github.com/HarveyYifanLi/ChatGPT-Categorizer-with-React-TypeScript/blob/main/images/EditTags.png)
+
 ![Test image](https://github.com/HarveyYifanLi/ChatGPT-Categorizer-with-React-TypeScript/blob/main/images/QnA.png)
 
 ![Test image](https://github.com/HarveyYifanLi/ChatGPT-Categorizer-with-React-TypeScript/blob/main/images/EditQnA.png)
 
 ![Test image](https://github.com/HarveyYifanLi/ChatGPT-Categorizer-with-React-TypeScript/blob/main/images/NewQnA.png)
-
-![Test image](https://github.com/HarveyYifanLi/ChatGPT-Categorizer-with-React-TypeScript/blob/main/images/EditTags.png)
