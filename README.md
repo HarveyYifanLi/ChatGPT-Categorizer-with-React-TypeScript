@@ -3,7 +3,7 @@ This is a productive Web SPA built with `React.js`, `TypeScript`, `React Router`
 
 ### Instructions for execution
 1. Clone the Repo and cd into that cloned directory
-2. Install all the necessary ependencies specified in `package.json` via command:
+2. Install all the necessary dependencies specified in `package.json` via command:
 `npm install`
 3. Run the app via command: `npm run dev`
 
